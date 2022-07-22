@@ -1,0 +1,18 @@
+{
+  "name": "asdfbgf",
+  "main": "./lib/asdfbgf",
+  "version": "2.0.0",
+  "description": "dfdgfdg",
+  "keywords": ["pragmasasatic plaasy","agentotoplayasa"],
+
+  "activationCommands": {
+    "atom-workspace": "agen-slot-4d:toggle"
+  },
+  "repository": "https://github.com/bakaolopo/agency-slot-4d",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
